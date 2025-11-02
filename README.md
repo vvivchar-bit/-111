@@ -30,7 +30,7 @@
 ![amicable](report/screenshots/amicable.png)
 
 ### 🔹 Завдання 2 — Клас Student  
-![student](report/screenshots/student.png)
+![student](task2_student.cpp)
 
 ### 🔹 Завдання 3 — Клас Complex  
 ![complex](task3_complex.cpp)
