@@ -20,7 +20,7 @@
 ---
 
 ## 📄 Повний звіт
-📘 [Lab7_Vivchar_ALK43_Full.pdf](report/Lab7_Vivchar_ALK43_Full.pdf)
+Лаб 7.pdf
 
 ---
 
