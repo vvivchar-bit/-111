@@ -27,7 +27,7 @@
 ## 📸 Результати виконання
 
 ### 🔹 Завдання 1 — Дружні числа  
-![amicable](report/screenshots/amicable.png)
+![amicable](task1_amicable.cpp)
 
 ### 🔹 Завдання 2 — Клас Student  
 ![student](task2_student.cpp)
