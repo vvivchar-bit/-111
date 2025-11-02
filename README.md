@@ -27,7 +27,7 @@
 - сортування студентів за середнім балом.  
 
 📄 **Код програми:**  
-👉 [task2_student.cpp](https://github.com/vvivchar-bit/111/blob/main/task2_student.cpp)
+👉 [task2_student.cpp](task2_student.cpp)
 
 ---
 
