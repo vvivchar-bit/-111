@@ -15,7 +15,7 @@
 ### 🔹 Завдання 1 — Дружні числа  
 Реалізувати програму для пошуку всіх пар **дружніх чисел** у заданому діапазоні `[a; b]`.  
 📄 **Код програми:**  
-👉 [task1_amicable.cpp](https://github.com/vvivchar-bit/111/blob/main/task1_amicable.cpp)
+👉 [task1_amicable.cpp](task1_amicable.cpp)
 
 ---
 
