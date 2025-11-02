@@ -36,7 +36,7 @@
 Реалізувати операції `+`, `-`, `*`, `/`, а також метод `conj()` — спряжене число.  
 
 📄 **Код програми:**  
-👉 [task3_complex.cpp](https://github.com/vvivchar-bit/111/blob/main/task3_complex.cpp)
+👉 [task3_complex.cpp](task3_complex.cpp)
 
 ---
 
