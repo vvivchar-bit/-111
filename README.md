@@ -33,7 +33,7 @@
 ![student](report/screenshots/student.png)
 
 ### 🔹 Завдання 3 — Клас Complex  
-![complex](report/screenshots/complex.png)
+![complex](task3_complex.cpp)
 
 ---
 
